@@ -8,8 +8,8 @@ App feito com Python e Tkinter para calcular IMC com emojis e cores vibrantes!
 - Design fofinho em tons de rosa
 - Mensagens de erro personalizadas
 
-## 🖼️ Screenshot
-![Screenshot](calculadoraIMC.gif)  
+## 🖼️ Demonstração
+![GIF da Calculadora](calculadoraIMC.gif)
 
 ## 🛠️ Como Executar
 ```bash
