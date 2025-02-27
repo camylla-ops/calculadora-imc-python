@@ -1,6 +1,6 @@
 # 🍑 Calculadora de IMC  🍬
 
-App feito com Python e Tkinter para calcular IMC com emojis e cores vibrantes!
+App feito com Python e Tkinter para calcular IMC.
 
 ## ✨ Features
 - Converte vírgulas em pontos automaticamente
