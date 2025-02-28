@@ -2,21 +2,21 @@
 
 App feito com Python e Tkinter para calcular IMC.
 
-## ✨ Features
+##  Features
 - Converte vírgulas em pontos automaticamente
 - Classificação do IMC com emojis
 - Design fofinho em tons de rosa
 - Mensagens de erro personalizadas
 
-## 🖼️ Demonstração
+##  Demonstração
 ![GIF da Calculadora](calculadoraIMC.gif)
 
-## 🛠️ Como Executar
+##  Como Executar
 ```bash
 python3 calculadoraIMC.py
 ```
 
-## 🧠 Aprendizados
+##  Aprendizados
 - Trabalhar com interfaces gráficas no Tkinter
 - Validação de entrada de usuário
-- Uso de emojis em aplicações desktop
+
