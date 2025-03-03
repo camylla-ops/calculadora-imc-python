@@ -1,4 +1,4 @@
-# 🍑 Calculadora de IMC  🍬
+# Calculadora de IMC  
 
 App feito com Python e Tkinter para calcular IMC.
 
