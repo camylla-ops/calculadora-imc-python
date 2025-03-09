@@ -3,9 +3,8 @@
 App feito com Python e Tkinter para calcular IMC.
 
 ##  Features
-- Converte vírgulas em pontos automaticamente
+
 - Classificação do IMC com emojis
-- Design fofinho em tons de rosa
 - Mensagens de erro personalizadas
 
 ##  Demonstração
